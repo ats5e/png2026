@@ -586,7 +586,7 @@ const App = () => {
                  </div>
                  <div>
                     <div className="text-3xl font-heavy text-white">Rapid</div>
-                    <div className="text-sm text-gray-500 font-bold uppercase">Deploy</div>
+                    <div className="text-sm text-gray-500 font-bold uppercase">Deployment</div>
                  </div>
               </div>
             </div>
