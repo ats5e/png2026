@@ -365,7 +365,7 @@ const App = () => {
                </h2>
                <div className="space-y-6 text-lg font-medium text-gray-300">
                   <p>
-                     You cannot afford to test unproven vendors in a crisis year. ATS5E brings the <strong>"Operator DNA"</strong> validated by the region’s largest financial institution.
+                     You cannot afford to test unproven vendors in a crisis year. ATS5E brings the <strong>"Operator DNA"</strong> validated by one of the region’s largest financial institution.
                   </p>
                   <p>
                      We are not new entrants. We are the silent architects behind the modernization of the region's financial lifeline. When a market leader needed to upgrade core operations without downtime, they called us.
