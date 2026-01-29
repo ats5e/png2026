@@ -368,7 +368,7 @@ const App = () => {
                      You cannot afford to test unproven vendors in a crisis year. ATS5E brings the <strong>"Operator DNA"</strong> validated by the region’s largest financial institution.
                   </p>
                   <p>
-                     We are not new entrants. We are the silent architects behind the modernization of the region's financial lifeline. When the market leader needed to upgrade core operations without downtime, they called us.
+                     We are not new entrants. We are the silent architects behind the modernization of the region's financial lifeline. When a market leader needed to upgrade core operations without downtime, they called us.
                   </p>
                   <p className="text-gray-400 border-l-2 border-blue-500 pl-4">
                      <em>"We navigated BPNG regulatory nuances, handled Pacific connectivity constraints, and delivered modernization at scale."</em>
@@ -633,7 +633,7 @@ const App = () => {
                  </div>
                  <div>
                     <div className="text-3xl font-heavy text-white">Rapid</div>
-                    <div className="text-sm text-gray-500 font-bold uppercase">Deploy</div>
+                    <div className="text-sm text-gray-500 font-bold uppercase">Deployment</div>
                  </div>
               </div>
             </div>
