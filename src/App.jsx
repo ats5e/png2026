@@ -242,7 +242,7 @@ const App = () => {
               <br/>
               <span className="text-white font-bold">Grey List pressure. De-risking threats. Core legacy constraints.</span> 
               <br/>
-              We bring the operational rigor of the Gulf, validated by the region's largest financial institution.
+              We bring the operational rigor of the Gulf, validated by one of the region's largest financial institution.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6">
