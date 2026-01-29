@@ -118,7 +118,7 @@ const App = () => {
               <img
                 src="/logo.png"
                 alt="ATS5E Logo"
-                className="h-20 w-auto object-contain"
+                className="h-16 w-auto object-contain"
                 onError={() => setLogoError(true)}
               />
             ) : (
