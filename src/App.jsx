@@ -430,6 +430,53 @@ const App = () => {
          </div>
       </section>
 
+      {/* Meet the CEO Section */}
+      <section id="ceo" className="py-24 bg-gradient-to-b from-black to-zinc-900 border-t border-white/5">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="grid md:grid-cols-2 gap-16 items-center">
+            <div className="order-2 md:order-1">
+              <div className="inline-flex items-center gap-2 mb-6 px-3 py-1 bg-white/10 rounded text-xs font-bold uppercase tracking-wider text-blue-300">
+                <Users className="w-4 h-4" /> Leadership
+              </div>
+              <h2 className="text-4xl md:text-5xl font-heavy mb-6">
+                William Higgins<br />
+                <span className="text-gray-500">CEO & Founder</span>
+              </h2>
+              <div className="space-y-6 text-lg font-medium text-gray-400 leading-relaxed">
+                <p>
+                  "We don't just write reports. We build the systems that run the bank."
+                </p>
+                <p>
+                  As the former Global Head of Operations for ABN AMRO and RBS, managing infrastructure across 50 countries, William brings a rare "Operator DNA" to technology consulting. He understands that in banking, downtime is not an option and compliance is not a checkbox—it's a license to operate.
+                </p>
+                <p>
+                  Under his leadership, ATS5E has become the silent partner to the region's most ambitious financial institutions, delivering complex transformations with a focus on speed, security, and absolute discretion.
+                </p>
+                <div className="pt-4 flex items-center gap-4">
+                  <div className="text-sm font-bold text-white bg-zinc-800 px-4 py-2 rounded-full border border-white/10">
+                    In PNG: Feb 3 - Feb 14
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="order-1 md:order-2 relative">
+              <div className="absolute inset-0 bg-blue-500/20 blur-[100px] rounded-full"></div>
+              <div className="relative z-10 rounded-2xl overflow-hidden border border-white/10 bg-zinc-800">
+                <img 
+                  src="/WilliamH.png" 
+                  alt="William Higgins, CEO" 
+                  className="w-full h-auto object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                />
+                <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-8">
+                  <div className="text-white font-heavy text-xl">The Operator's Mindset</div>
+                  <div className="text-gray-400 text-sm">Decades of Tier-1 Global Banking Experience</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Targeted Solutions */}
       <section id="solutions" className="py-32 bg-black">
         <div className="max-w-7xl mx-auto px-6">
