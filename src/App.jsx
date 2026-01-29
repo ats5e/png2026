@@ -109,7 +109,7 @@ const App = () => {
         className={`fixed top-0 w-full z-50 transition-all duration-500 ${
           scrolled
             ? "bg-black/90 backdrop-blur-md border-b border-white/10 py-4"
-            : "bg-transparent py-6"
+            : "bg-transparent py-10 md:py-6"
         }`}
       >
         <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
