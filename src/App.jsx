@@ -242,7 +242,7 @@ const App = () => {
               <br/>
               <span className="text-white font-bold">Grey List pressure. De-risking threats. Core legacy constraints.</span> 
               <br/>
-              We bring the operational rigor of the Gulf, validated by one of the region's largest financial institution.
+              We bring the operational rigor of the Gulf, validated by the region's largest financial institution.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6">
@@ -365,10 +365,10 @@ const App = () => {
                </h2>
                <div className="space-y-6 text-lg font-medium text-gray-300">
                   <p>
-                     You cannot afford to test unproven vendors in a crisis year. ATS5E brings the <strong>"Operator DNA"</strong> validated by one of the region’s largest financial institution.
+                     You cannot afford to test unproven vendors in a crisis year. ATS5E brings the <strong>"Operator DNA"</strong> validated by the region’s largest financial institution.
                   </p>
                   <p>
-                     We are not new entrants. We are the silent architects behind the modernization of the region's financial lifeline. When a market leader needed to upgrade core operations without downtime, they called us.
+                     We are not new entrants. We are the silent architects behind the modernization of the region's financial lifeline. When the market leader needed to upgrade core operations without downtime, they called us.
                   </p>
                   <p className="text-gray-400 border-l-2 border-blue-500 pl-4">
                      <em>"We navigated BPNG regulatory nuances, handled Pacific connectivity constraints, and delivered modernization at scale."</em>
@@ -496,7 +496,7 @@ const App = () => {
              <div className="grid md:grid-cols-12 gap-10 items-center group">
                <div className="md:col-span-5 order-2 md:order-1 relative">
                   <div className="absolute inset-0 bg-red-600/20 blur-[80px] rounded-full group-hover:bg-red-600/30 transition-all"></div>
-                  <img src="https://images.unsplash.com/photo-1556742031-c6961e8560b0?q=80&w=2070&auto=format&fit=crop" alt="Digital Experience" className="relative z-10 rounded-xl border border-white/10 opacity-80 group-hover:opacity-100 transition-opacity grayscale hover:grayscale-0 transition-all duration-500" />
+                  <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?q=80&w=2070&auto=format&fit=crop" alt="Digital Experience" className="relative z-10 rounded-xl border border-white/10 opacity-80 group-hover:opacity-100 transition-opacity grayscale hover:grayscale-0 transition-all duration-500" />
                </div>
                <div className="md:col-span-7 order-1 md:order-2">
                   <div className="flex items-center gap-3 mb-4">
@@ -559,7 +559,7 @@ const App = () => {
       {/* GCC/Global Advantage */}
       <section id="global" className="py-32 bg-black relative overflow-hidden">
          <div className="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1512453979798-5ea904ac6605?q=80&w=2070&auto=format&fit=crop" alt="Abstract Architecture" className="w-full h-full object-cover opacity-20 grayscale" />
+            <img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=2070&auto=format&fit=crop" alt="Abstract Architecture" className="w-full h-full object-cover opacity-20 grayscale" />
             <div className="absolute inset-0 bg-gradient-to-t from-black via-black/80 to-transparent"></div>
          </div>
 
@@ -586,7 +586,7 @@ const App = () => {
                  </div>
                  <div>
                     <div className="text-3xl font-heavy text-white">Rapid</div>
-                    <div className="text-sm text-gray-500 font-bold uppercase">Deployment</div>
+                    <div className="text-sm text-gray-500 font-bold uppercase">Deploy</div>
                  </div>
               </div>
             </div>
