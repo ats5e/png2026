@@ -205,7 +205,7 @@ const App = () => {
       {/* Hero Section */}
       <section
         id="hero"
-        className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20"
+        className="relative min-h-screen flex items-center justify-center overflow-hidden pt-32 md:pt-20"
       >
         {/* Immersive Background */}
         <div className="absolute inset-0 z-0">
